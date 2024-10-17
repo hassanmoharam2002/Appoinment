@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "548654153518",
+    "firebase_url": "https://appoimenth-default-rtdb.firebaseio.com",
+    "project_id": "appoimenth",
+    "storage_bucket": "appoimenth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548654153518:android:91158607859ef55eb444bf",
+        "android_client_info": {
+          "package_name": "com.hassan.appoiment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonFOjRFQwQemoP1sqkGBOq1TNS3qkdmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548654153518:android:c8de8c3810b87ec6b444bf",
+        "android_client_info": {
+          "package_name": "com.hassan.ss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAonFOjRFQwQemoP1sqkGBOq1TNS3qkdmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
